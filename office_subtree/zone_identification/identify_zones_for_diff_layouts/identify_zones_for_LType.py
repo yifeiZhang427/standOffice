@@ -1,4 +1,4 @@
-from shapely.geometry import Polygon, Point, LineString, MultiPoint, MultiLineString
+from shapely.geometry import Polygon, Point, LineString, MultiPoint, MultiLineString, GeometryCollection
 from shapely import envelope, difference, unary_union
 from shapely.ops import split
 from shapely import affinity
@@ -228,11 +228,66 @@ def _aggregate(sub_zones_list):
 #     return missing_sub_zones
 
 
+def __find_offices_connected_to_reception(offices, office_doors, reception):
+    reception_walls = _get_walls(*reception.bounds)
 
+    offices_connected_to_reception = {}
+    _exists_a_door_in_axis = lambda axis_with_door, office_doors: [door for door in office_doors if door.intersection(axis_with_door)]
+    for axis, reception_line in reception_walls.items():
+        door_axis = ('+' if axis[0] == '-' else '+') + axis[1]
+
+        connected_offices2axis = [office for office in offices 
+                                  if office.intersection(reception_line).length > 0 and
+                                  _exists_a_door_in_axis(_get_walls(*office.bounds)[door_axis], office_doors)]
+        offices_connected_to_reception[axis] = connected_offices2axis
+    return offices_connected_to_reception
+        
+__get_bounds_in_axis = lambda zone, axis='Y': [zone.bounds[i] for i in [0, 2]] if axis == 'X' else \
+                                                [zone.bounds[i] for i in [1, 3]]
+    
 def _extract_remained_zones_in_each_rotated_cutted_zone(rotated_cutted_zone, 
                                                         rotated_reception=None, rotated_offices=[], rotated_office_doors=[],
                                                         rotated_boundary_lines=[]):
     boundary = rotated_cutted_zone
+
+    # if rotated_reception:
+    #     offices_connected_to_reception = __find_offices_connected_to_reception(rotated_offices, rotated_office_doors, rotated_reception)
+        
+    #     # offices_connected_to_reception_list = list(chain.from_iterable(offices_connected_to_reception.values()))
+    #     # rotated_reception = envelope(GeometryCollection([rotated_reception] + offices_connected_to_reception_list))
+    #     # sub_zones_alongside_reception = difference(rotated_reception, offices_connected_to_reception_list)
+
+    #     sub_zones_alongside_reception = {}
+    #     reception_walls = _get_walls(*rotated_reception.bounds)
+    #     _minx, _miny, _maxx, _maxy = rotated_reception.bounds
+    #     for axis, offices in offices_connected_to_reception.items():
+    #         if not offices: continue
+            
+    #         reception_wall = list(reception_walls[axis].coords)
+    #         start = reception_wall[0]
+    #         _x, _y = start
+        
+    #         xs4offices = list(set(chain.from_iterable([__get_bounds_in_axis(office, axis='X') for office in offices])))
+    #         ys4offices = list(set(chain.from_iterable([__get_bounds_in_axis(office, axis='Y') for office in offices])))
+    #         if axis.endswith('x'):
+    #             x4box = min(xs4offices) if axis.startswith('-') else max(xs4offices)
+    #             point4box = Point(x4box, _y)
+    #         else:
+    #             y4box = min(ys4offices) if axis.startswith('-') else max(ys4offices)
+    #             point4box = Point(_x, y4box)
+    #         box_in_axis = envelope(MultiPoint(reception_wall + [point4box]))
+
+    #         _minx, _miny, _maxx, _maxy = box_in_axis.bounds
+    #         if axis.endswith('x'):
+    #             cuts = [LineString([Point(_minx, y), Point(_maxx, y)]) for y in ys4offices]
+    #         else:
+    #             cuts = [LineString([Point(x, _miny), Point(x, _maxy)]) for x in xs4offices]
+
+    #         box_cutted = list(split(box_in_axis, MultiLineString(cuts)).geoms)
+    #         sub_zones_alongside_reception = [zone for zone in box_cutted if all(office.intersection(zone).area == 0 for office in offices)]
+    # else:
+    #     sub_zones_alongside_reception = []
+
 
     # connected_offices_by_walls = group_office_rooms_by_walls(rotated_offices, boundary)
     offices_by_axises = _group_office_rooms_by_doors(rotated_offices, rotated_office_doors, rotated_boundary_lines)
@@ -246,15 +301,34 @@ def _extract_remained_zones_in_each_rotated_cutted_zone(rotated_cutted_zone,
     # sub_zones = {key: [zone for zone in zones if not zone.is_empty and not zone.intersection(door).length > 0] for key, zones in sub_zones.items()}
     # _sub_zones = _cut_sub_zones_by_door(sub_zones, Point(*data['publicDoor']), boundary)
 
-    sub_zones = {key: [zone for zone in zones if not zone.is_empty] for key, zones in sub_zones.items()}
     sub_zones, sub_zones_without_boundary_lines = _exclude_sub_zones_without_walls(sub_zones, rotated_cutted_zone, rotated_boundary_lines)
+    sub_zones = {key: [zone for zone in zones if not zone.is_empty] for key, zones in sub_zones.items()}
 
     main_zone = extract_main_zone_by_max_boxes(max_boxes_by_at_axises, boundary)
 
     if rotated_reception:
+        rotated_reception = envelope(MultiPoint(rotated_reception.exterior.coords))
+        
         if rotated_reception.intersection(main_zone).area > 0:
-            main_zone = difference(main_zone, rotated_reception)
-            main_zones = _cut_LIType_via_inner_vertexes(main_zone, direction='X')
+            # main_zone = difference(main_zone, rotated_reception)
+            # main_zones = _cut_LIType_via_inner_vertexes(main_zone, direction='X')
+
+            xs4cuts = __get_bounds_in_axis(rotated_reception, axis='X')
+
+            ys4cuts = __get_bounds_in_axis(rotated_reception, axis='Y')
+            ys4cuts += __get_bounds_in_axis(main_zone, axis='y')
+            _miny, _maxy = [min(ys4cuts), max(ys4cuts)]
+
+            cuts = [LineString([Point(x, _miny), Point(x, _maxy)]) for x in xs4cuts]
+
+            main_zone_cutted = list(split(main_zone, MultiLineString(cuts)).geoms)
+            main_zones = [difference(zone, rotated_reception) if rotated_reception.intersection(zone).area > 0 else zone for zone in main_zone_cutted]
+            # main_zones = []
+            # for zone in main_zone_cutted:
+            #     if zone.intersection(rotated_reception).area > 0:
+            #         ys4cuts = __get_bounds_in_axis(rotated_reception, axis='Y')
+            #         remained_zones = [_zone for _zone in split(zone, ys4cuts).geoms if _zone.intersection(rotated_reception).area == 0]
+            #         main_zones += remained_zones
 
         new_sub_zones = defaultdict(list)
         for key, zones in sub_zones.items():
@@ -263,14 +337,19 @@ def _extract_remained_zones_in_each_rotated_cutted_zone(rotated_cutted_zone,
                     minx, _, maxx, _ = rotated_reception.bounds
                     _, _miny, _, _maxy = zone.bounds
                     cuts = [LineString([Point(x, _miny), Point(x, _maxy)]) for x in [minx, maxx]]
-                    reduced_zones = split(zone, MultiLineString(cuts))
-                    new_sub_zones[key] += list(reduced_zones.geoms)
+                    
+                    zone_cutted = list(split(zone, MultiLineString(cuts)).geoms)
+                    reduced_zones = [zone for zone in zone_cutted if rotated_reception.intersection(zone).area == 0]
+                    if reduced_zones:
+                        new_sub_zones[key] += reduced_zones
                 else:
                     new_sub_zones[key] += [zone]
         sub_zones = new_sub_zones
     else:
         main_zones = [main_zone]
 
+    # if sub_zones_alongside_reception:
+    #     sub_zones += sub_zones_alongside_reception
     return sub_zones_without_boundary_lines, sub_zones, main_zones
 
 
@@ -283,6 +362,14 @@ def _init(data, cut_layout_func=_cut_LType_via_inner_vertex):
     # office_doors = [_Point(door['center']['x'], door['center']['y']) for door in data['doorWindowDatas']]
     office_doors = [LineString([_Point(*coord) for coord in coords]) for coords in data['singleRoomsDoor']]
     main_door = _Point(*data['publicDoor'])
+
+    if reception and offices:
+        indexes_of_offices_connected_to_reception = [i for i, office in enumerate(offices) if office.intersection(reception).length > 0]
+        offices_connected_to_reception = [offices[i] for i in indexes_of_offices_connected_to_reception]
+        reception = unary_union([reception] + offices_connected_to_reception)
+
+        offices = [office for i, office in enumerate(offices) if i not in indexes_of_offices_connected_to_reception]
+        office_doors = [door for i, door in enumerate(office_doors) if i not in indexes_of_offices_connected_to_reception]
 
     boundary_lines = _get_walls4nonrectangle_boundary(boundary)
 

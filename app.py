@@ -87,7 +87,7 @@ def stand_office():
         return jsonify({"error": "No data"})
     result = data
     if 1==1:
-        print(result)
+
         if len(result['baseMessage']['pathSegs']) > 4:
             result = main_for_diff_layouts(result, layout_type='L-Type', GAalgo_in_parallell=True)
         else:

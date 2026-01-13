@@ -259,7 +259,6 @@ def convert_new_form_into_old_for_each_schema(schema):
 
 def main(params, dp='.', verbose=False, visualization=False, GAalgo_in_parallell=True):
     algorithmMessage = deepcopy(params['algorithmMessage'])
-    print('AlgorithmMessage:', algorithmMessage)
     params['algorithmMessage'] = [convert_new_form_into_old_for_each_schema(schema_in_new_form) for schema_in_new_form in algorithmMessage]
     inputs4global_layout = _get_inputs_for_global_auto_layout(params)
 
@@ -401,6 +400,8 @@ def _mock_reception(roomBoundary, dp='.'):
 def main_for_diff_layouts(params, layout_type='L-Type',
                             dp='.', verbose=False, visualization=False,
                             GAalgo_in_parallell=True):
+    algorithmMessage = deepcopy(params['algorithmMessage'])
+    params['algorithmMessage'] = [convert_new_form_into_old_for_each_schema(schema_in_new_form) for schema_in_new_form in algorithmMessage]
     inputs4global_layout = _get_inputs_for_global_auto_layout(params)
     
     _dp = dp

@@ -1,0 +1,4379 @@
+[
+  {
+    "id": "W8",
+    "name": "個室ブース（4人用）",
+    "key": "W8",
+    "category": [
+      "component.class.one.chat",
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.workshop",
+    "fileKey": "68ca9c6306283364833e01932b243851",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/68ca9c6306283364833e01932b243851/files/W8/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/68ca9c6306283364833e01932b243851/files/W8/model2d.svg",
+    "properties": {
+      "width": 2040,
+      "thickness": 1400,
+      "height": 2435,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/68ca9c6306283364833e01932b243851/files/W8/thumbnail.jpg",
+        "images": {
+          "W8/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/68ca9c6306283364833e01932b243851/files/W8/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 3500000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "W7",
+    "name": "個室ブース（2人用）",
+    "key": "W7",
+    "category": [
+      "component.class.one.chat",
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.workshop",
+    "fileKey": "9a1c69e10d31326f92b8ee5ca0993a40",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/9a1c69e10d31326f92b8ee5ca0993a40/files/W7/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/9a1c69e10d31326f92b8ee5ca0993a40/files/W7/model2d.svg",
+    "properties": {
+      "width": 2040,
+      "thickness": 1030,
+      "height": 2435,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/9a1c69e10d31326f92b8ee5ca0993a40/files/W7/thumbnail.jpg",
+        "images": {
+          "W7/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/9a1c69e10d31326f92b8ee5ca0993a40/files/W7/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 2700000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "W6",
+    "name": "個室ブース（1人用）",
+    "key": "W6",
+    "category": [
+      "component.class.one.chat",
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.workshop",
+    "fileKey": "a23a487db81b308cb8e22fd5e754da05",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a23a487db81b308cb8e22fd5e754da05/files/W6/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a23a487db81b308cb8e22fd5e754da05/files/W6/model2d.svg",
+    "properties": {
+      "width": 1100,
+      "thickness": 1045,
+      "height": 2435,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a23a487db81b308cb8e22fd5e754da05/files/W6/thumbnail.jpg",
+        "images": {
+          "W6/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a23a487db81b308cb8e22fd5e754da05/files/W6/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 1700000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "W5",
+    "name": "半個室ブース（4人用）",
+    "key": "W5",
+    "category": [
+      "component.class.one.chat"
+    ],
+    "type": "component.class.two.workshop",
+    "fileKey": "6c7d3accb2ae38a59ad41752cc3fa8a1",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/6c7d3accb2ae38a59ad41752cc3fa8a1/files/W5/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/6c7d3accb2ae38a59ad41752cc3fa8a1/files/W5/model2d.svg",
+    "properties": {
+      "width": 2400,
+      "thickness": 1800,
+      "height": 1400,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/6c7d3accb2ae38a59ad41752cc3fa8a1/files/W5/thumbnail.jpg",
+        "images": {
+          "W5/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/6c7d3accb2ae38a59ad41752cc3fa8a1/files/W5/image-0.jpg"
+        },
+        "brand": "ITOKI",
+        "size": null,
+        "price": 1690000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "W4",
+    "name": "防音ワークブース3",
+    "key": "W4",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.workshop",
+    "fileKey": "6614e1469fab35459a616522cd1126aa",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/6614e1469fab35459a616522cd1126aa/files/W4/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/6614e1469fab35459a616522cd1126aa/files/W4/model2d.svg",
+    "properties": {
+      "width": 1000,
+      "thickness": 890,
+      "height": 1250,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/6614e1469fab35459a616522cd1126aa/files/W4/thumbnail.jpg",
+        "images": {
+          "W4/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/6614e1469fab35459a616522cd1126aa/files/W4/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 660000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "W3",
+    "name": "防音ワークブース4",
+    "key": "W3",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.workshop",
+    "fileKey": "68e9a43837d93ff2ba81a83c4ed80a45",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/68e9a43837d93ff2ba81a83c4ed80a45/files/W3/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/68e9a43837d93ff2ba81a83c4ed80a45/files/W3/model2d.svg",
+    "properties": {
+      "width": 3840,
+      "thickness": 960,
+      "height": 1515,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/68e9a43837d93ff2ba81a83c4ed80a45/files/W3/thumbnail.jpg",
+        "images": {
+          "W3/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/68e9a43837d93ff2ba81a83c4ed80a45/files/W3/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 480000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "W2",
+    "name": "防音ワークブース2",
+    "key": "W2",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.workshop",
+    "fileKey": "6636b1bcdba23ce3b3b879b21ffb949d",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/6636b1bcdba23ce3b3b879b21ffb949d/files/W2/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/6636b1bcdba23ce3b3b879b21ffb949d/files/W2/model2d.svg",
+    "properties": {
+      "width": 1280,
+      "thickness": 1920,
+      "height": 1515,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/6636b1bcdba23ce3b3b879b21ffb949d/files/W2/thumbnail.jpg",
+        "images": {
+          "W2/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/6636b1bcdba23ce3b3b879b21ffb949d/files/W2/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 920000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "W1",
+    "name": "防音ワークブース1",
+    "key": "W1",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.workshop",
+    "fileKey": "1e9944dfac1e3c7aa02d65620b492a48",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/1e9944dfac1e3c7aa02d65620b492a48/files/W1/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/1e9944dfac1e3c7aa02d65620b492a48/files/W1/model2d.svg",
+    "properties": {
+      "width": 1280,
+      "thickness": 1515,
+      "height": 1920,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/1e9944dfac1e3c7aa02d65620b492a48/files/W1/thumbnail.jpg",
+        "images": {
+          "W1/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/1e9944dfac1e3c7aa02d65620b492a48/files/W1/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 920000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T9",
+    "name": "両面連結デスク（6人用・ABW仕様）",
+    "key": "T9",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "2f0355649dad31dcb3ebe251d9f72755",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2f0355649dad31dcb3ebe251d9f72755/files/T9/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2f0355649dad31dcb3ebe251d9f72755/files/T9/model2d.svg",
+    "properties": {
+      "width": 3600,
+      "thickness": 1400,
+      "height": 720,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2f0355649dad31dcb3ebe251d9f72755/files/T9/thumbnail.jpg",
+        "images": {
+          "T9/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2f0355649dad31dcb3ebe251d9f72755/files/T9/image-0.jpg"
+        },
+        "brand": "UCHIDA",
+        "size": null,
+        "price": 586400,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T8",
+    "name": "両面デスク（2人用）",
+    "key": "T8",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "001cf45760623c35bbdae2b0f81d1dce",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/001cf45760623c35bbdae2b0f81d1dce/files/T8/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/001cf45760623c35bbdae2b0f81d1dce/files/T8/model2d.svg",
+    "properties": {
+      "width": 1400,
+      "thickness": 1400,
+      "height": 720,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/001cf45760623c35bbdae2b0f81d1dce/files/T8/thumbnail.jpg",
+        "images": {
+          "T8/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/001cf45760623c35bbdae2b0f81d1dce/files/T8/image-0.jpg"
+        },
+        "brand": "UCHIDA",
+        "size": null,
+        "price": 221600,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T7",
+    "name": "両面連結デスク（6人用）",
+    "key": "T7",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "f44f8f3058a53f0ba7af7248b72bb833",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f44f8f3058a53f0ba7af7248b72bb833/files/T7/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f44f8f3058a53f0ba7af7248b72bb833/files/T7/model2d.svg",
+    "properties": {
+      "width": 3600,
+      "thickness": 1400,
+      "height": 720,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f44f8f3058a53f0ba7af7248b72bb833/files/T7/thumbnail.jpg",
+        "images": {
+          "T7/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f44f8f3058a53f0ba7af7248b72bb833/files/T7/image-0.jpg"
+        },
+        "brand": "UCHIDA",
+        "size": null,
+        "price": 550400,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T6",
+    "name": "楕円型ミーティングテーブル",
+    "key": "T6",
+    "category": [
+      "component.class.one.chat"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "7137cd43a7a630dd927243aaf6d6cb10",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7137cd43a7a630dd927243aaf6d6cb10/files/T6/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7137cd43a7a630dd927243aaf6d6cb10/files/T6/model2d.svg",
+    "properties": {
+      "width": 2000,
+      "thickness": 1200,
+      "height": 720,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7137cd43a7a630dd927243aaf6d6cb10/files/T6/thumbnail.jpg",
+        "images": {
+          "T6/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7137cd43a7a630dd927243aaf6d6cb10/files/T6/image-0.jpg"
+        },
+        "brand": "UCHIDA",
+        "size": null,
+        "price": 300000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T5",
+    "name": "ビッグミーティングテーブル",
+    "key": "T5",
+    "category": [
+      "component.class.one.chat",
+      "component.class.one.meet"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "00a36d1346d03c79a850b0b1d919dbb6",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/00a36d1346d03c79a850b0b1d919dbb6/files/T5/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/00a36d1346d03c79a850b0b1d919dbb6/files/T5/model2d.svg",
+    "properties": {
+      "width": 4800,
+      "thickness": 1500,
+      "height": 720,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/00a36d1346d03c79a850b0b1d919dbb6/files/T5/thumbnail.jpg",
+        "images": {
+          "T5/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/00a36d1346d03c79a850b0b1d919dbb6/files/T5/image-0.jpg"
+        },
+        "brand": "OKAMURA",
+        "size": null,
+        "price": 1490000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T4",
+    "name": "会議テーブル（10人用）",
+    "key": "T4",
+    "category": [
+      "component.class.one.meet"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "f47fb721aa553aadad0f389c93c2d533",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f47fb721aa553aadad0f389c93c2d533/files/T4/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f47fb721aa553aadad0f389c93c2d533/files/T4/model2d.svg",
+    "properties": {
+      "width": 4000,
+      "thickness": 1200,
+      "height": 720,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f47fb721aa553aadad0f389c93c2d533/files/T4/thumbnail.jpg",
+        "images": {
+          "T4/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f47fb721aa553aadad0f389c93c2d533/files/T4/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 1020000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T31",
+    "name": "片面連結デスク（3人用・基本仕様）",
+    "key": "T31",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "25ddda0572de3826ac1713ec6519dad8",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/25ddda0572de3826ac1713ec6519dad8/files/T31/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/25ddda0572de3826ac1713ec6519dad8/files/T31/model2d.svg",
+    "properties": {
+      "width": 3600,
+      "thickness": 700,
+      "height": 720,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/25ddda0572de3826ac1713ec6519dad8/files/T31/thumbnail.jpg",
+        "images": {
+          "T31/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/25ddda0572de3826ac1713ec6519dad8/files/T31/image-0.jpg"
+        },
+        "brand": "UCHIDA",
+        "size": null,
+        "price": 423200,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T30",
+    "name": "受付台",
+    "key": "T30",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "0c292140ba1734c0b660aaff847c9bc6",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/0c292140ba1734c0b660aaff847c9bc6/files/T30/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/0c292140ba1734c0b660aaff847c9bc6/files/T30/model2d.svg",
+    "properties": {
+      "width": 400,
+      "thickness": 900,
+      "height": 1200,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/0c292140ba1734c0b660aaff847c9bc6/files/T30/thumbnail.jpg",
+        "images": {
+          "T30/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/0c292140ba1734c0b660aaff847c9bc6/files/T30/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 23000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T3",
+    "name": "会議テーブル（8人用）",
+    "key": "T3",
+    "category": [
+      "component.class.one.meet"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "54b02ae91c8c3b0aac069c84b9f78178",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/54b02ae91c8c3b0aac069c84b9f78178/files/T3/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/54b02ae91c8c3b0aac069c84b9f78178/files/T3/model2d.svg",
+    "properties": {
+      "width": 3200,
+      "thickness": 1200,
+      "height": 720,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/54b02ae91c8c3b0aac069c84b9f78178/files/T3/thumbnail.jpg",
+        "images": {
+          "T3/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/54b02ae91c8c3b0aac069c84b9f78178/files/T3/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 730000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T29",
+    "name": "正方形テーブル（キャスター付き）",
+    "key": "T29",
+    "category": [
+      "component.class.one.chat"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "5dbc6d5a86563be09336ae1a7105504e",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5dbc6d5a86563be09336ae1a7105504e/files/T29/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5dbc6d5a86563be09336ae1a7105504e/files/T29/model2d.svg",
+    "properties": {
+      "width": 900,
+      "thickness": 900,
+      "height": 720,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5dbc6d5a86563be09336ae1a7105504e/files/T29/thumbnail.jpg",
+        "images": {
+          "T29/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5dbc6d5a86563be09336ae1a7105504e/files/T29/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 110000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T28",
+    "name": "角形ハイテーブル（キャスター付き）",
+    "key": "T28",
+    "category": [
+      "component.class.one.chat"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "78a256aa6648343ebf585909d24cc831",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/78a256aa6648343ebf585909d24cc831/files/T28/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/78a256aa6648343ebf585909d24cc831/files/T28/model2d.svg",
+    "properties": {
+      "width": 1200,
+      "thickness": 623,
+      "height": 1000,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/78a256aa6648343ebf585909d24cc831/files/T28/thumbnail.jpg",
+        "images": {
+          "T28/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/78a256aa6648343ebf585909d24cc831/files/T28/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 160000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T27",
+    "name": "台形テーブル",
+    "key": "T27",
+    "category": [
+      "component.class.one.chat"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "b5e39a3c85aa3a6bac17d1ad7c014833",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b5e39a3c85aa3a6bac17d1ad7c014833/files/T27/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b5e39a3c85aa3a6bac17d1ad7c014833/files/T27/model2d.svg",
+    "properties": {
+      "width": 1460,
+      "thickness": 650,
+      "height": 720,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b5e39a3c85aa3a6bac17d1ad7c014833/files/T27/thumbnail.jpg",
+        "images": {
+          "T27/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b5e39a3c85aa3a6bac17d1ad7c014833/files/T27/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 130000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T26",
+    "name": "個室用デスク",
+    "key": "T26",
+    "category": [
+      "component.class.one.meet"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "37ce6186c32b3a5e87712000b77351c3",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/37ce6186c32b3a5e87712000b77351c3/files/T26/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/37ce6186c32b3a5e87712000b77351c3/files/T26/model2d.svg",
+    "properties": {
+      "width": 1905,
+      "thickness": 1805,
+      "height": 719,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/37ce6186c32b3a5e87712000b77351c3/files/T26/thumbnail.jpg",
+        "images": {
+          "T26/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/37ce6186c32b3a5e87712000b77351c3/files/T26/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 640000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T25",
+    "name": "会議テーブル（長机）",
+    "key": "T25",
+    "category": [
+      "component.class.one.meet"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "a124397da5743ae9886bf824e25f573e",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a124397da5743ae9886bf824e25f573e/files/T25/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a124397da5743ae9886bf824e25f573e/files/T25/model2d.svg",
+    "properties": {
+      "width": 1800,
+      "thickness": 600,
+      "height": 720,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a124397da5743ae9886bf824e25f573e/files/T25/thumbnail.jpg",
+        "images": {
+          "T25/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a124397da5743ae9886bf824e25f573e/files/T25/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 140000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T24",
+    "name": "アクセントワークデスク（三角形）",
+    "key": "T24",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "b3546dc9aadf372880cb6da5a861e441",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b3546dc9aadf372880cb6da5a861e441/files/T24/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b3546dc9aadf372880cb6da5a861e441/files/T24/model2d.svg",
+    "properties": {
+      "width": 1770,
+      "thickness": 1700,
+      "height": 720,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b3546dc9aadf372880cb6da5a861e441/files/T24/thumbnail.jpg",
+        "images": {
+          "T24/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b3546dc9aadf372880cb6da5a861e441/files/T24/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 250000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T23",
+    "name": "ソファ前テーブル",
+    "key": "T23",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "5628110968c9399b8d9dc16801efecad",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5628110968c9399b8d9dc16801efecad/files/T23/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5628110968c9399b8d9dc16801efecad/files/T23/model2d.svg",
+    "properties": {
+      "width": 800,
+      "thickness": 612,
+      "height": 747,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5628110968c9399b8d9dc16801efecad/files/T23/thumbnail.jpg",
+        "images": {
+          "T23/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5628110968c9399b8d9dc16801efecad/files/T23/image-0.jpg"
+        },
+        "brand": "OKAMURA",
+        "size": null,
+        "price": 110000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T22",
+    "name": "ソファ前角形テーブル（T字脚）",
+    "key": "T22",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "238e19ee916231bc976a8af8fa694b08",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/238e19ee916231bc976a8af8fa694b08/files/T22/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/238e19ee916231bc976a8af8fa694b08/files/T22/model2d.svg",
+    "properties": {
+      "width": 1800,
+      "thickness": 900,
+      "height": 620,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/238e19ee916231bc976a8af8fa694b08/files/T22/thumbnail.jpg",
+        "images": {
+          "T22/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/238e19ee916231bc976a8af8fa694b08/files/T22/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 210000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T21",
+    "name": "丸テーブル（ボックス脚）",
+    "key": "T21",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "2a5c69fa826d39cabc69cdf3f708ca1f",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2a5c69fa826d39cabc69cdf3f708ca1f/files/T21/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2a5c69fa826d39cabc69cdf3f708ca1f/files/T21/model2d.svg",
+    "properties": {
+      "width": 1050,
+      "thickness": 1050,
+      "height": 620,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2a5c69fa826d39cabc69cdf3f708ca1f/files/T21/thumbnail.jpg",
+        "images": {
+          "T21/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2a5c69fa826d39cabc69cdf3f708ca1f/files/T21/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 260000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T20",
+    "name": "正方形テーブル（ボックス脚）",
+    "key": "T20",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "5c49ec58dc2e396caa6f15efd3e10ce1",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5c49ec58dc2e396caa6f15efd3e10ce1/files/T20/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5c49ec58dc2e396caa6f15efd3e10ce1/files/T20/model2d.svg",
+    "properties": {
+      "width": 1050,
+      "thickness": 1050,
+      "height": 620,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5c49ec58dc2e396caa6f15efd3e10ce1/files/T20/thumbnail.jpg",
+        "images": {
+          "T20/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5c49ec58dc2e396caa6f15efd3e10ce1/files/T20/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 260000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T2",
+    "name": "会議テーブル（6人用）",
+    "key": "T2",
+    "category": [
+      "component.class.one.meet"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "71d2c46af01f3eea94a0f541243e297b",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/71d2c46af01f3eea94a0f541243e297b/files/T2/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/71d2c46af01f3eea94a0f541243e297b/files/T2/model2d.svg",
+    "properties": {
+      "width": 2400,
+      "thickness": 1200,
+      "height": 722,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/71d2c46af01f3eea94a0f541243e297b/files/T2/thumbnail.jpg",
+        "images": {
+          "T2/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/71d2c46af01f3eea94a0f541243e297b/files/T2/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 550000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T19",
+    "name": "正方形テーブル（単脚）",
+    "key": "T19",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "432bb8ad6e063fdc827ed01deb2608f6",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/432bb8ad6e063fdc827ed01deb2608f6/files/T19/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/432bb8ad6e063fdc827ed01deb2608f6/files/T19/model2d.svg",
+    "properties": {
+      "width": 900,
+      "thickness": 900,
+      "height": 620,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/432bb8ad6e063fdc827ed01deb2608f6/files/T19/thumbnail.jpg",
+        "images": {
+          "T19/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/432bb8ad6e063fdc827ed01deb2608f6/files/T19/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 160000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T18",
+    "name": "角形テーブル（単脚）",
+    "key": "T18",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "f46974548b2f3ecd819ac02246018a2a",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f46974548b2f3ecd819ac02246018a2a/files/T18/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f46974548b2f3ecd819ac02246018a2a/files/T18/model2d.svg",
+    "properties": {
+      "width": 800,
+      "thickness": 450,
+      "height": 620,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f46974548b2f3ecd819ac02246018a2a/files/T18/thumbnail.jpg",
+        "images": {
+          "T18/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f46974548b2f3ecd819ac02246018a2a/files/T18/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 160000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T17",
+    "name": "受付丸テーブル",
+    "key": "T17",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "cc75c1e57d41368abc3fbd7872e09044",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/cc75c1e57d41368abc3fbd7872e09044/files/T17/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/cc75c1e57d41368abc3fbd7872e09044/files/T17/model2d.svg",
+    "properties": {
+      "width": 600,
+      "thickness": 600,
+      "height": 620,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/cc75c1e57d41368abc3fbd7872e09044/files/T17/thumbnail.jpg",
+        "images": {
+          "T17/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/cc75c1e57d41368abc3fbd7872e09044/files/T17/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 160000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T16",
+    "name": "アクセントワークデスク",
+    "key": "T16",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "40c501ed19d8392da8f7c779a50487fb",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/40c501ed19d8392da8f7c779a50487fb/files/T16/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/40c501ed19d8392da8f7c779a50487fb/files/T16/model2d.svg",
+    "properties": {
+      "width": 2400,
+      "thickness": 2400,
+      "height": 720,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/40c501ed19d8392da8f7c779a50487fb/files/T16/thumbnail.jpg",
+        "images": {
+          "T16/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/40c501ed19d8392da8f7c779a50487fb/files/T16/image-0.jpg"
+        },
+        "brand": "UCHIDA",
+        "size": null,
+        "price": 760000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T15",
+    "name": "ひな壇デスク",
+    "key": "T15",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "b6520b04bbab302292b01bf3b0c9f6a0",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b6520b04bbab302292b01bf3b0c9f6a0/files/T15/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b6520b04bbab302292b01bf3b0c9f6a0/files/T15/model2d.svg",
+    "properties": {
+      "width": 1400,
+      "thickness": 700,
+      "height": 720,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b6520b04bbab302292b01bf3b0c9f6a0/files/T15/thumbnail.jpg",
+        "images": {
+          "T15/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b6520b04bbab302292b01bf3b0c9f6a0/files/T15/image-0.jpg"
+        },
+        "brand": "",
+        "size": null,
+        "price": 154200,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T14",
+    "name": "片面デスク（ 1人用・ABW仕様）",
+    "key": "T14",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "a6a1435edf5731b4a306e9cb9d9f9811",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a6a1435edf5731b4a306e9cb9d9f9811/files/T14/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a6a1435edf5731b4a306e9cb9d9f9811/files/T14/model2d.svg",
+    "properties": {
+      "width": 1400,
+      "thickness": 700,
+      "height": 720,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a6a1435edf5731b4a306e9cb9d9f9811/files/T14/thumbnail.jpg",
+        "images": {
+          "T14/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a6a1435edf5731b4a306e9cb9d9f9811/files/T14/image-0.jpg"
+        },
+        "brand": "UCHIDA",
+        "size": null,
+        "price": 190000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T13",
+    "name": "片面連結ハイデスク（3人用・ABW仕様）",
+    "key": "T13",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "23ebc4f2560237f295b23dce29c2a83e",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/23ebc4f2560237f295b23dce29c2a83e/files/T13/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/23ebc4f2560237f295b23dce29c2a83e/files/T13/model2d.svg",
+    "properties": {
+      "width": 3600,
+      "thickness": 700,
+      "height": 1000,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/23ebc4f2560237f295b23dce29c2a83e/files/T13/thumbnail.jpg",
+        "images": {
+          "T13/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/23ebc4f2560237f295b23dce29c2a83e/files/T13/image-0.jpg"
+        },
+        "brand": "UCHIDA",
+        "size": null,
+        "price": 505600,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T12",
+    "name": "片面連結デスク（3人用・ABW仕様）",
+    "key": "T12",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "72963b0e4d3e3a1c8e511dfb1ec25aab",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/72963b0e4d3e3a1c8e511dfb1ec25aab/files/T12/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/72963b0e4d3e3a1c8e511dfb1ec25aab/files/T12/model2d.svg",
+    "properties": {
+      "width": 3600,
+      "thickness": 700,
+      "height": 720,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/72963b0e4d3e3a1c8e511dfb1ec25aab/files/T12/thumbnail.jpg",
+        "images": {
+          "T12/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/72963b0e4d3e3a1c8e511dfb1ec25aab/files/T12/image-0.jpg"
+        },
+        "brand": "UCHIDA",
+        "size": null,
+        "price": 423200,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T11",
+    "name": "両面デスク（2人用・ABW仕様）",
+    "key": "T11",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "77b1e0384c6b329ea22f8bed4c151fdd",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/77b1e0384c6b329ea22f8bed4c151fdd/files/T11/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/77b1e0384c6b329ea22f8bed4c151fdd/files/T11/model2d.svg",
+    "properties": {
+      "width": 1400,
+      "thickness": 1400,
+      "height": 720,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/77b1e0384c6b329ea22f8bed4c151fdd/files/T11/thumbnail.jpg",
+        "images": {
+          "T11/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/77b1e0384c6b329ea22f8bed4c151fdd/files/T11/image-0.jpg"
+        },
+        "brand": "UCHIDA",
+        "size": null,
+        "price": 150000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T10",
+    "name": "両面連結ハイデスク（6人用・ABW仕様）",
+    "key": "T10",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "436b2a487be338c1a1257e4045d567a9",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/436b2a487be338c1a1257e4045d567a9/files/T10/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/436b2a487be338c1a1257e4045d567a9/files/T10/model2d.svg",
+    "properties": {
+      "width": 3600,
+      "thickness": 1400,
+      "height": 1000,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/436b2a487be338c1a1257e4045d567a9/files/T10/thumbnail.jpg",
+        "images": {
+          "T10/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/436b2a487be338c1a1257e4045d567a9/files/T10/image-0.jpg"
+        },
+        "brand": "UCHIDA",
+        "size": null,
+        "price": 644600,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "T1",
+    "name": "会議テーブル（4人用）",
+    "key": "T1",
+    "category": [
+      "component.class.one.meet"
+    ],
+    "type": "component.class.two.table",
+    "fileKey": "ce499dea30cf3e118f4fe85da0227e83",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/ce499dea30cf3e118f4fe85da0227e83/files/T1/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/ce499dea30cf3e118f4fe85da0227e83/files/T1/model2d.svg",
+    "properties": {
+      "width": 1800,
+      "thickness": 900,
+      "height": 720,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/ce499dea30cf3e118f4fe85da0227e83/files/T1/thumbnail.jpg",
+        "images": {
+          "T1/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/ce499dea30cf3e118f4fe85da0227e83/files/T1/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 450000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "S4",
+    "name": "プランター付きラウンドソファ",
+    "key": "S4",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.sofa",
+    "fileKey": "d59a89abb4af3bc49d85243d5f75bcac",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/d59a89abb4af3bc49d85243d5f75bcac/files/S4/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/d59a89abb4af3bc49d85243d5f75bcac/files/S4/model2d.svg",
+    "properties": {
+      "width": 3750,
+      "thickness": 2250,
+      "height": 1497,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/d59a89abb4af3bc49d85243d5f75bcac/files/S4/thumbnail.jpg",
+        "images": {
+          "S4/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/d59a89abb4af3bc49d85243d5f75bcac/files/S4/image-0.jpg"
+        },
+        "brand": "OKAMURA",
+        "size": null,
+        "price": 5460000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "S3",
+    "name": "ベンチソファ",
+    "key": "S3",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.sofa",
+    "fileKey": "e2ab7c65b21e38cc9c3b642b5e36429e",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/e2ab7c65b21e38cc9c3b642b5e36429e/files/S3/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/e2ab7c65b21e38cc9c3b642b5e36429e/files/S3/model2d.svg",
+    "properties": {
+      "width": 2250,
+      "thickness": 750,
+      "height": 420,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/e2ab7c65b21e38cc9c3b642b5e36429e/files/S3/thumbnail.jpg",
+        "images": {
+          "S3/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/e2ab7c65b21e38cc9c3b642b5e36429e/files/S3/image-0.jpg"
+        },
+        "brand": "OKAMURA",
+        "size": null,
+        "price": 650000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "S2",
+    "name": "ソファ2",
+    "key": "S2",
+    "category": [
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.sofa",
+    "fileKey": "b9eeaf6a16ca39f3bdf57620aed91b62",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b9eeaf6a16ca39f3bdf57620aed91b62/files/S2/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b9eeaf6a16ca39f3bdf57620aed91b62/files/S2/model2d.svg",
+    "properties": {
+      "width": 2100,
+      "thickness": 680,
+      "height": 1000,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b9eeaf6a16ca39f3bdf57620aed91b62/files/S2/thumbnail.jpg",
+        "images": {
+          "S2/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b9eeaf6a16ca39f3bdf57620aed91b62/files/S2/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 360000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "S1",
+    "name": "ソファ1",
+    "key": "S1",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.sofa",
+    "fileKey": "67f6274e0ac03d89af9b1ec09a2253fc",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/67f6274e0ac03d89af9b1ec09a2253fc/files/S1/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/67f6274e0ac03d89af9b1ec09a2253fc/files/S1/model2d.svg",
+    "properties": {
+      "width": 2250,
+      "thickness": 766,
+      "height": 720,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/67f6274e0ac03d89af9b1ec09a2253fc/files/S1/thumbnail.jpg",
+        "images": {
+          "S1/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/67f6274e0ac03d89af9b1ec09a2253fc/files/S1/image-0.jpg"
+        },
+        "brand": "OKAMURA",
+        "size": null,
+        "price": 1130000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "R8-3",
+    "name": "リサイクルBOX3セット",
+    "key": "R8-3",
+    "category": [
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.tea",
+    "fileKey": "7660830985d931d8a97165a260dffa39",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7660830985d931d8a97165a260dffa39/files/R8-3/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7660830985d931d8a97165a260dffa39/files/R8-3/model2d.svg",
+    "properties": {
+      "width": 280,
+      "thickness": 448,
+      "height": 725,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7660830985d931d8a97165a260dffa39/files/R8-3/thumbnail.jpg",
+        "images": {
+          "R8-3/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7660830985d931d8a97165a260dffa39/files/R8-3/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 80000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "R8-2",
+    "name": "リサイクルBOX3セット",
+    "key": "R8-2",
+    "category": [
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.tea",
+    "fileKey": "5dc90ace499935a6bcbc5ab4fb62cfd7",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5dc90ace499935a6bcbc5ab4fb62cfd7/files/R8-2/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5dc90ace499935a6bcbc5ab4fb62cfd7/files/R8-2/model2d.svg",
+    "properties": {
+      "width": 280,
+      "thickness": 448,
+      "height": 725,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5dc90ace499935a6bcbc5ab4fb62cfd7/files/R8-2/thumbnail.jpg",
+        "images": {
+          "R8-2/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5dc90ace499935a6bcbc5ab4fb62cfd7/files/R8-2/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 80000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "R8-1",
+    "name": "リサイクルBOX3セット",
+    "key": "R8-1",
+    "category": [
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.tea",
+    "fileKey": "c877c4ed78813eaabf9b77b3be010236",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/c877c4ed78813eaabf9b77b3be010236/files/R8-1/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/c877c4ed78813eaabf9b77b3be010236/files/R8-1/model2d.svg",
+    "properties": {
+      "width": 280,
+      "thickness": 448,
+      "height": 725,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/c877c4ed78813eaabf9b77b3be010236/files/R8-1/thumbnail.jpg",
+        "images": {
+          "R8-1/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/c877c4ed78813eaabf9b77b3be010236/files/R8-1/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 80000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "R7",
+    "name": "リサイクルBOX",
+    "key": "R7",
+    "category": [
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.tea",
+    "fileKey": "b9d7e51eba2c3d159e7fd3013338c38e",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b9d7e51eba2c3d159e7fd3013338c38e/files/R7/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b9d7e51eba2c3d159e7fd3013338c38e/files/R7/model2d.svg",
+    "properties": {
+      "width": 1200,
+      "thickness": 600,
+      "height": 900,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b9d7e51eba2c3d159e7fd3013338c38e/files/R7/thumbnail.jpg",
+        "images": {
+          "R7/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b9d7e51eba2c3d159e7fd3013338c38e/files/R7/image-0.jpg"
+        },
+        "brand": "OKAMURA",
+        "size": null,
+        "price": 200000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "R6",
+    "name": "電子レンジ",
+    "key": "R6",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.tea",
+    "fileKey": "f38ee76ce06c3d13940482aced1c7391",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f38ee76ce06c3d13940482aced1c7391/files/R6/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f38ee76ce06c3d13940482aced1c7391/files/R6/model2d.svg",
+    "properties": {
+      "width": 470,
+      "thickness": 390,
+      "height": 350,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f38ee76ce06c3d13940482aced1c7391/files/R6/thumbnail.jpg",
+        "images": {
+          "R6/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f38ee76ce06c3d13940482aced1c7391/files/R6/image-0.jpg"
+        },
+        "brand": "PANASONIC",
+        "size": null,
+        "price": 50000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "R5",
+    "name": "ウォーターサーバー",
+    "key": "R5",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.tea",
+    "fileKey": "e1b8054c9cdd322c9eeecfe71f26054a",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/e1b8054c9cdd322c9eeecfe71f26054a/files/R5/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/e1b8054c9cdd322c9eeecfe71f26054a/files/R5/model2d.svg",
+    "properties": {
+      "width": 300,
+      "thickness": 350,
+      "height": 1100,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/e1b8054c9cdd322c9eeecfe71f26054a/files/R5/thumbnail.jpg",
+        "images": {
+          "R5/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/e1b8054c9cdd322c9eeecfe71f26054a/files/R5/image-0.jpg"
+        },
+        "brand": "DAIOHS",
+        "size": null,
+        "price": 0,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "R4",
+    "name": "冷蔵庫",
+    "key": "R4",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.tea",
+    "fileKey": "8717ce4dfdc83a4b976d9e983ab9fb29",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/8717ce4dfdc83a4b976d9e983ab9fb29/files/R4/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/8717ce4dfdc83a4b976d9e983ab9fb29/files/R4/model2d.svg",
+    "properties": {
+      "width": 760,
+      "thickness": 745,
+      "height": 1828,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/8717ce4dfdc83a4b976d9e983ab9fb29/files/R4/thumbnail.jpg",
+        "images": {
+          "R4/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/8717ce4dfdc83a4b976d9e983ab9fb29/files/R4/image-0.jpg"
+        },
+        "brand": "PANASONIC",
+        "size": null,
+        "price": 400000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "R3",
+    "name": "カフェカウンター（コ型）",
+    "key": "R3",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.tea",
+    "fileKey": "5c108ce0fe893063acfce75f650b36c2",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5c108ce0fe893063acfce75f650b36c2/files/R3/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5c108ce0fe893063acfce75f650b36c2/files/R3/model2d.svg",
+    "properties": {
+      "width": 3500,
+      "thickness": 2260,
+      "height": 2100,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5c108ce0fe893063acfce75f650b36c2/files/R3/thumbnail.jpg",
+        "images": {
+          "R3/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5c108ce0fe893063acfce75f650b36c2/files/R3/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 2590000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "R2",
+    "name": "カフェカウンター（L型）",
+    "key": "R2",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.tea",
+    "fileKey": "8c6d22ff6f633c6791cfa315cb80b314",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/8c6d22ff6f633c6791cfa315cb80b314/files/R2/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/8c6d22ff6f633c6791cfa315cb80b314/files/R2/model2d.svg",
+    "properties": {
+      "width": 2260,
+      "thickness": 2260,
+      "height": 2090,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/8c6d22ff6f633c6791cfa315cb80b314/files/R2/thumbnail.jpg",
+        "images": {
+          "R2/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/8c6d22ff6f633c6791cfa315cb80b314/files/R2/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 1510000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "L9",
+    "name": "3段ラテラルキャビネット",
+    "key": "L9",
+    "category": [
+      "component.class.one.chat",
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.rack",
+    "fileKey": "51715cd0d11735b2a4b2d50332e96ead",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/51715cd0d11735b2a4b2d50332e96ead/files/L9/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/51715cd0d11735b2a4b2d50332e96ead/files/L9/model2d.svg",
+    "properties": {
+      "width": 900,
+      "thickness": 454,
+      "height": 1050,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/51715cd0d11735b2a4b2d50332e96ead/files/L9/thumbnail.jpg",
+        "images": {
+          "L9/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/51715cd0d11735b2a4b2d50332e96ead/files/L9/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 180000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "L8",
+    "name": "12人用個人ロッカー",
+    "key": "L8",
+    "category": [
+      "component.class.one.chat",
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.rack",
+    "fileKey": "9021e43c75e43c17a1aecd44562f7497",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/9021e43c75e43c17a1aecd44562f7497/files/L8/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/9021e43c75e43c17a1aecd44562f7497/files/L8/model2d.svg",
+    "properties": {
+      "width": 900,
+      "thickness": 461,
+      "height": 1752,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/9021e43c75e43c17a1aecd44562f7497/files/L8/thumbnail.jpg",
+        "images": {
+          "L8/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/9021e43c75e43c17a1aecd44562f7497/files/L8/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 560000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "L7",
+    "name": "8人用個人ロッカー",
+    "key": "L7",
+    "category": [
+      "component.class.one.chat",
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.rack",
+    "fileKey": "2babbdbf6645345eb49bedbfd6c4f084",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2babbdbf6645345eb49bedbfd6c4f084/files/L7/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2babbdbf6645345eb49bedbfd6c4f084/files/L7/model2d.svg",
+    "properties": {
+      "width": 900,
+      "thickness": 461,
+      "height": 1752,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2babbdbf6645345eb49bedbfd6c4f084/files/L7/thumbnail.jpg",
+        "images": {
+          "L7/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2babbdbf6645345eb49bedbfd6c4f084/files/L7/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 460000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "L6",
+    "name": "4人用個人ロッカー",
+    "key": "L6",
+    "category": [
+      "component.class.one.chat",
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.rack",
+    "fileKey": "c288831847af35b8973c8ed009a85c15",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/c288831847af35b8973c8ed009a85c15/files/L6/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/c288831847af35b8973c8ed009a85c15/files/L6/model2d.svg",
+    "properties": {
+      "width": 900,
+      "thickness": 461,
+      "height": 1050,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/c288831847af35b8973c8ed009a85c15/files/L6/thumbnail.jpg",
+        "images": {
+          "L6/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/c288831847af35b8973c8ed009a85c15/files/L6/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 290000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "L5",
+    "name": "スライドキャビネット2列",
+    "key": "L5",
+    "category": [
+      "component.class.one.chat",
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.rack",
+    "fileKey": "25d6c78aa6723d5683fb0b7da416f90a",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/25d6c78aa6723d5683fb0b7da416f90a/files/L5/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/25d6c78aa6723d5683fb0b7da416f90a/files/L5/model2d.svg",
+    "properties": {
+      "width": 2760,
+      "thickness": 943,
+      "height": 2265,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/25d6c78aa6723d5683fb0b7da416f90a/files/L5/thumbnail.jpg",
+        "images": {
+          "L5/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/25d6c78aa6723d5683fb0b7da416f90a/files/L5/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 760000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "L4",
+    "name": "オープンシェルフ（4x3）",
+    "key": "L4",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.rack",
+    "fileKey": "4aa0f8a9fd5a3c0fb7d1aabb6c58b0a2",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/4aa0f8a9fd5a3c0fb7d1aabb6c58b0a2/files/L4/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/4aa0f8a9fd5a3c0fb7d1aabb6c58b0a2/files/L4/model2d.svg",
+    "properties": {
+      "width": 1665,
+      "thickness": 432,
+      "height": 1310,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/4aa0f8a9fd5a3c0fb7d1aabb6c58b0a2/files/L4/thumbnail.jpg",
+        "images": {
+          "L4/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/4aa0f8a9fd5a3c0fb7d1aabb6c58b0a2/files/L4/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 400000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "L3",
+    "name": "オープンシェルフ（3x2）",
+    "key": "L3",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.rack",
+    "fileKey": "842ce6eb510f3e7087da883915ec90e0",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/842ce6eb510f3e7087da883915ec90e0/files/L3/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/842ce6eb510f3e7087da883915ec90e0/files/L3/model2d.svg",
+    "properties": {
+      "width": 1665,
+      "thickness": 432,
+      "height": 1310,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/842ce6eb510f3e7087da883915ec90e0/files/L3/thumbnail.jpg",
+        "images": {
+          "L3/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/842ce6eb510f3e7087da883915ec90e0/files/L3/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 240000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "L2",
+    "name": "ワゴン（袖机）",
+    "key": "L2",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.rack",
+    "fileKey": "7e6aa2d53f6e32b1a34b017fa403cb76",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7e6aa2d53f6e32b1a34b017fa403cb76/files/L2/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7e6aa2d53f6e32b1a34b017fa403cb76/files/L2/model2d.svg",
+    "properties": {
+      "width": 395,
+      "thickness": 602,
+      "height": 648,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7e6aa2d53f6e32b1a34b017fa403cb76/files/L2/thumbnail.jpg",
+        "images": {
+          "L2/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7e6aa2d53f6e32b1a34b017fa403cb76/files/L2/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 100000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "L17",
+    "name": "ワードローブ（個室用）",
+    "key": "L17",
+    "category": [
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.rack",
+    "fileKey": "5c1fdf534e2c39cdbaace8bde571b102",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5c1fdf534e2c39cdbaace8bde571b102/files/L17/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5c1fdf534e2c39cdbaace8bde571b102/files/L17/model2d.svg",
+    "properties": {
+      "width": 452,
+      "thickness": 541,
+      "height": 2100,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5c1fdf534e2c39cdbaace8bde571b102/files/L17/thumbnail.jpg",
+        "images": {
+          "L17/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/5c1fdf534e2c39cdbaace8bde571b102/files/L17/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 170000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "L16",
+    "name": "3段ラテラルキャビネット（個室用）",
+    "key": "L16",
+    "category": [
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.rack",
+    "fileKey": "d2ee6afdc155361da48d9d24aab92034",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/d2ee6afdc155361da48d9d24aab92034/files/L16/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/d2ee6afdc155361da48d9d24aab92034/files/L16/model2d.svg",
+    "properties": {
+      "width": 900,
+      "thickness": 400,
+      "height": 1065,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/d2ee6afdc155361da48d9d24aab92034/files/L16/thumbnail.jpg",
+        "images": {
+          "L16/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/d2ee6afdc155361da48d9d24aab92034/files/L16/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 230000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "L15",
+    "name": "電話台",
+    "key": "L15",
+    "category": [
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.rack",
+    "fileKey": "8a7ff0ed6e1b3876b58b9a767d6903d2",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/8a7ff0ed6e1b3876b58b9a767d6903d2/files/L15/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/8a7ff0ed6e1b3876b58b9a767d6903d2/files/L15/model2d.svg",
+    "properties": {
+      "width": 450,
+      "thickness": 450,
+      "height": 720,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/8a7ff0ed6e1b3876b58b9a767d6903d2/files/L15/thumbnail.jpg",
+        "images": {
+          "L15/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/8a7ff0ed6e1b3876b58b9a767d6903d2/files/L15/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 50000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "L14",
+    "name": "中量ラック/5段",
+    "key": "L14",
+    "category": [
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.rack",
+    "fileKey": "1e7f85ad98f83dbca3f846846207b8c9",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/1e7f85ad98f83dbca3f846846207b8c9/files/L14/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/1e7f85ad98f83dbca3f846846207b8c9/files/L14/model2d.svg",
+    "properties": {
+      "width": 900,
+      "thickness": 450,
+      "height": 2100,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/1e7f85ad98f83dbca3f846846207b8c9/files/L14/thumbnail.jpg",
+        "images": {
+          "L14/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/1e7f85ad98f83dbca3f846846207b8c9/files/L14/image-0.jpg"
+        },
+        "brand": "OKAMURA",
+        "size": null,
+        "price": 90000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "L13",
+    "name": "トレイキャビネット",
+    "key": "L13",
+    "category": [
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.rack",
+    "fileKey": "519473b04c6c3a14ad4a9dea1a3b9d33",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/519473b04c6c3a14ad4a9dea1a3b9d33/files/L13/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/519473b04c6c3a14ad4a9dea1a3b9d33/files/L13/model2d.svg",
+    "properties": {
+      "width": 900,
+      "thickness": 450,
+      "height": 1050,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/519473b04c6c3a14ad4a9dea1a3b9d33/files/L13/thumbnail.jpg",
+        "images": {
+          "L13/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/519473b04c6c3a14ad4a9dea1a3b9d33/files/L13/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 190000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "L12",
+    "name": "オープンキャビネット",
+    "key": "L12",
+    "category": [
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.rack",
+    "fileKey": "7e5979f017da3896838d082f3a5f4592",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7e5979f017da3896838d082f3a5f4592/files/L12/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7e5979f017da3896838d082f3a5f4592/files/L12/model2d.svg",
+    "properties": {
+      "width": 900,
+      "thickness": 450,
+      "height": 1050,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7e5979f017da3896838d082f3a5f4592/files/L12/thumbnail.jpg",
+        "images": {
+          "L12/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7e5979f017da3896838d082f3a5f4592/files/L12/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 90000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "L11",
+    "name": "ワードローブ",
+    "key": "L11",
+    "category": [
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.rack",
+    "fileKey": "8e7ee9b50b483e2b82231b9bd3509b7c",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/8e7ee9b50b483e2b82231b9bd3509b7c/files/L11/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/8e7ee9b50b483e2b82231b9bd3509b7c/files/L11/model2d.svg",
+    "properties": {
+      "width": 900,
+      "thickness": 450,
+      "height": 2100,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/8e7ee9b50b483e2b82231b9bd3509b7c/files/L11/thumbnail.jpg",
+        "images": {
+          "L11/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/8e7ee9b50b483e2b82231b9bd3509b7c/files/L11/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 150000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "L10",
+    "name": "ハイキャビネット",
+    "key": "L10",
+    "category": [
+      "component.class.one.chat",
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.rack",
+    "fileKey": "90e31730044933f0b77b5331ec0cf0f7",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/90e31730044933f0b77b5331ec0cf0f7/files/L10/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/90e31730044933f0b77b5331ec0cf0f7/files/L10/model2d.svg",
+    "properties": {
+      "width": 900,
+      "thickness": 450,
+      "height": 2100,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/90e31730044933f0b77b5331ec0cf0f7/files/L10/thumbnail.jpg",
+        "images": {
+          "L10/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/90e31730044933f0b77b5331ec0cf0f7/files/L10/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 240000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "L1",
+    "name": "置き金庫",
+    "key": "L1",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.rack",
+    "fileKey": "9ec4c0afd4503eacbadb81c3bcfc9732",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/9ec4c0afd4503eacbadb81c3bcfc9732/files/L1/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/9ec4c0afd4503eacbadb81c3bcfc9732/files/L1/model2d.svg",
+    "properties": {
+      "width": 758,
+      "thickness": 797,
+      "height": 1440,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/9ec4c0afd4503eacbadb81c3bcfc9732/files/L1/thumbnail.jpg",
+        "images": {
+          "L1/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/9ec4c0afd4503eacbadb81c3bcfc9732/files/L1/image-0.jpg"
+        },
+        "brand": "KUMAHIRA",
+        "size": null,
+        "price": 1960000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "G5",
+    "name": "植栽5",
+    "key": "G5",
+    "category": [
+      "component.class.one.chat",
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.plant",
+    "fileKey": "94d310c7d04438fda088caf8ed27c9b1",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/94d310c7d04438fda088caf8ed27c9b1/files/G5/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/94d310c7d04438fda088caf8ed27c9b1/files/G5/model2d.svg",
+    "properties": {
+      "width": 750,
+      "thickness": 750,
+      "height": 1100,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/94d310c7d04438fda088caf8ed27c9b1/files/G5/thumbnail.jpg",
+        "images": {
+          "G5/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/94d310c7d04438fda088caf8ed27c9b1/files/G5/image-0.jpg"
+        },
+        "brand": "UCHIDA",
+        "size": null,
+        "price": 70000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "G4",
+    "name": "植栽4",
+    "key": "G4",
+    "category": [
+      "component.class.one.chat",
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.plant",
+    "fileKey": "a0190496ceaf3dc782ae9373dd7317b3",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a0190496ceaf3dc782ae9373dd7317b3/files/G4/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a0190496ceaf3dc782ae9373dd7317b3/files/G4/model2d.svg",
+    "properties": {
+      "width": 706,
+      "thickness": 564,
+      "height": 1100,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a0190496ceaf3dc782ae9373dd7317b3/files/G4/thumbnail.jpg",
+        "images": {
+          "G4/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a0190496ceaf3dc782ae9373dd7317b3/files/G4/image-0.jpg"
+        },
+        "brand": "UCHIDA",
+        "size": null,
+        "price": 70000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "G3",
+    "name": "植栽3",
+    "key": "G3",
+    "category": [
+      "component.class.one.chat",
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.plant",
+    "fileKey": "bc75ca3e24ef3f839d947dbe27a95c8a",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/bc75ca3e24ef3f839d947dbe27a95c8a/files/G3/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/bc75ca3e24ef3f839d947dbe27a95c8a/files/G3/model2d.svg",
+    "properties": {
+      "width": 891,
+      "thickness": 833,
+      "height": 1809,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/bc75ca3e24ef3f839d947dbe27a95c8a/files/G3/thumbnail.jpg",
+        "images": {
+          "G3/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/bc75ca3e24ef3f839d947dbe27a95c8a/files/G3/image-0.jpg"
+        },
+        "brand": "UCHIDA",
+        "size": null,
+        "price": 120000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "G2",
+    "name": "植栽2",
+    "key": "G2",
+    "category": [
+      "component.class.one.chat",
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.plant",
+    "fileKey": "d24bade136bc3cd7be37395ea94226eb",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/d24bade136bc3cd7be37395ea94226eb/files/G2/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/d24bade136bc3cd7be37395ea94226eb/files/G2/model2d.svg",
+    "properties": {
+      "width": 770,
+      "thickness": 752,
+      "height": 1788,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/d24bade136bc3cd7be37395ea94226eb/files/G2/thumbnail.jpg",
+        "images": {
+          "G2/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/d24bade136bc3cd7be37395ea94226eb/files/G2/image-0.jpg"
+        },
+        "brand": "UCHIDA",
+        "size": null,
+        "price": 120000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "G1",
+    "name": "植栽1",
+    "key": "G1",
+    "category": [
+      "component.class.one.chat",
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.plant",
+    "fileKey": "c0497521d35d3686ae3af408094864c3",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/c0497521d35d3686ae3af408094864c3/files/G1/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/c0497521d35d3686ae3af408094864c3/files/G1/model2d.svg",
+    "properties": {
+      "width": 2100,
+      "thickness": 435,
+      "height": 1403,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/c0497521d35d3686ae3af408094864c3/files/G1/thumbnail.jpg",
+        "images": {
+          "G1/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/c0497521d35d3686ae3af408094864c3/files/G1/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 330000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "D5",
+    "name": "カードリーダー",
+    "key": "D5",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.device",
+    "fileKey": "ea8ea3bfaa273f4caf61470447c87eea",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/ea8ea3bfaa273f4caf61470447c87eea/files/D5/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/ea8ea3bfaa273f4caf61470447c87eea/files/D5/model2d.svg",
+    "properties": {
+      "width": 266,
+      "thickness": 50,
+      "height": 350,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/ea8ea3bfaa273f4caf61470447c87eea/files/D5/thumbnail.jpg",
+        "images": {
+          "D5/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/ea8ea3bfaa273f4caf61470447c87eea/files/D5/image-0.jpg"
+        },
+        "brand": "SECOM",
+        "size": null,
+        "price": 400000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "D4",
+    "name": "打合せ用モニター2",
+    "key": "D4",
+    "category": [
+      "component.class.one.meet"
+    ],
+    "type": "component.class.two.device",
+    "fileKey": "2521dc256a4338da87585c936b451dd7",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2521dc256a4338da87585c936b451dd7/files/D4/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2521dc256a4338da87585c936b451dd7/files/D4/model2d.svg",
+    "properties": {
+      "width": 1233,
+      "thickness": 740,
+      "height": 1754,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2521dc256a4338da87585c936b451dd7/files/D4/thumbnail.jpg",
+        "images": {
+          "D4/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2521dc256a4338da87585c936b451dd7/files/D4/image-0.jpg"
+        },
+        "brand": "",
+        "size": null,
+        "price": 400000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "D3",
+    "name": "打合せ用モニター1",
+    "key": "D3",
+    "category": [
+      "component.class.one.meet"
+    ],
+    "type": "component.class.two.device",
+    "fileKey": "a3deb6e481683f1db303caecb8a6c401",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a3deb6e481683f1db303caecb8a6c401/files/D3/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a3deb6e481683f1db303caecb8a6c401/files/D3/model2d.svg",
+    "properties": {
+      "width": 1233,
+      "thickness": 617,
+      "height": 1772,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a3deb6e481683f1db303caecb8a6c401/files/D3/thumbnail.jpg",
+        "images": {
+          "D3/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a3deb6e481683f1db303caecb8a6c401/files/D3/image-0.jpg"
+        },
+        "brand": "",
+        "size": null,
+        "price": 230000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "D2",
+    "name": "複合機",
+    "key": "D2",
+    "category": [
+      "component.class.one.chat",
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.device",
+    "fileKey": "c4d62b6dcca03e5caf06c01889282859",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/c4d62b6dcca03e5caf06c01889282859/files/D2/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/c4d62b6dcca03e5caf06c01889282859/files/D2/model2d.svg",
+    "properties": {
+      "width": 2221,
+      "thickness": 626,
+      "height": 1118,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/c4d62b6dcca03e5caf06c01889282859/files/D2/thumbnail.jpg",
+        "images": {
+          "D2/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/c4d62b6dcca03e5caf06c01889282859/files/D2/image-0.jpg"
+        },
+        "brand": "FUJIFILM",
+        "size": null,
+        "price": 4850000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "D1",
+    "name": "シュレッダー",
+    "key": "D1",
+    "category": [
+      "component.class.one.chat",
+      "component.class.one.work",
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.device",
+    "fileKey": "4a4079e06eb237baba12821c7c58a3f6",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/4a4079e06eb237baba12821c7c58a3f6/files/D1/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/4a4079e06eb237baba12821c7c58a3f6/files/D1/model2d.svg",
+    "properties": {
+      "width": 500,
+      "thickness": 500,
+      "height": 850,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/4a4079e06eb237baba12821c7c58a3f6/files/D1/thumbnail.jpg",
+        "images": {
+          "D1/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/4a4079e06eb237baba12821c7c58a3f6/files/D1/image-0.jpg"
+        },
+        "brand": "",
+        "size": null,
+        "price": 498000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C9-3",
+    "name": "ワーク兼ディスカッションハイチェア",
+    "key": "C9-3",
+    "category": [
+      "component.class.one.chat"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "ceb60d77dc333159b080ca11f2021408",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/ceb60d77dc333159b080ca11f2021408/files/C9-3/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/ceb60d77dc333159b080ca11f2021408/files/C9-3/model2d.svg",
+    "properties": {
+      "width": 620,
+      "thickness": 679,
+      "height": 1112,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/ceb60d77dc333159b080ca11f2021408/files/C9-3/thumbnail.jpg",
+        "images": {
+          "C9-3/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/ceb60d77dc333159b080ca11f2021408/files/C9-3/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 120000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C9-2",
+    "name": "ワーク兼ディスカッションハイチェア",
+    "key": "C9-2",
+    "category": [
+      "component.class.one.chat"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "99edc5c9e73336fd86b8c7579c55b739",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/99edc5c9e73336fd86b8c7579c55b739/files/C9-2/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/99edc5c9e73336fd86b8c7579c55b739/files/C9-2/model2d.svg",
+    "properties": {
+      "width": 620,
+      "thickness": 679,
+      "height": 1112,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/99edc5c9e73336fd86b8c7579c55b739/files/C9-2/thumbnail.jpg",
+        "images": {
+          "C9-2/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/99edc5c9e73336fd86b8c7579c55b739/files/C9-2/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 120000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C9-1",
+    "name": "ワーク兼ディスカッションハイチェア",
+    "key": "C9-1",
+    "category": [
+      "component.class.one.chat"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "4f394d8eed533754859776bebf4c4b8b",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/4f394d8eed533754859776bebf4c4b8b/files/C9-1/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/4f394d8eed533754859776bebf4c4b8b/files/C9-1/model2d.svg",
+    "properties": {
+      "width": 620,
+      "thickness": 679,
+      "height": 1112,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/4f394d8eed533754859776bebf4c4b8b/files/C9-1/thumbnail.jpg",
+        "images": {
+          "C9-1/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/4f394d8eed533754859776bebf4c4b8b/files/C9-1/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 120000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C8-3",
+    "name": "ワーク兼ディスカッションチェア",
+    "key": "C8-3",
+    "category": [
+      "component.class.one.chat"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "2bfc9f83f3c53b859a2e55a2a0b6834c",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2bfc9f83f3c53b859a2e55a2a0b6834c/files/C8-3/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2bfc9f83f3c53b859a2e55a2a0b6834c/files/C8-3/model2d.svg",
+    "properties": {
+      "width": 620,
+      "thickness": 679,
+      "height": 844,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2bfc9f83f3c53b859a2e55a2a0b6834c/files/C8-3/thumbnail.jpg",
+        "images": {
+          "C8-3/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2bfc9f83f3c53b859a2e55a2a0b6834c/files/C8-3/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 90000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C8-2",
+    "name": "ワーク兼ディスカッションチェア",
+    "key": "C8-2",
+    "category": [
+      "component.class.one.chat"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "6f9917a681bf3604b748d48b832859a3",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/6f9917a681bf3604b748d48b832859a3/files/C8-2/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/6f9917a681bf3604b748d48b832859a3/files/C8-2/model2d.svg",
+    "properties": {
+      "width": 620,
+      "thickness": 679,
+      "height": 844,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/6f9917a681bf3604b748d48b832859a3/files/C8-2/thumbnail.jpg",
+        "images": {
+          "C8-2/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/6f9917a681bf3604b748d48b832859a3/files/C8-2/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 90000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C8-1",
+    "name": "ワーク兼ディスカッションチェア",
+    "key": "C8-1",
+    "category": [
+      "component.class.one.chat"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "7bf6bbb2ef1c343690cd6fe825e8c67c",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7bf6bbb2ef1c343690cd6fe825e8c67c/files/C8-1/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7bf6bbb2ef1c343690cd6fe825e8c67c/files/C8-1/model2d.svg",
+    "properties": {
+      "width": 620,
+      "thickness": 679,
+      "height": 844,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7bf6bbb2ef1c343690cd6fe825e8c67c/files/C8-1/thumbnail.jpg",
+        "images": {
+          "C8-1/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7bf6bbb2ef1c343690cd6fe825e8c67c/files/C8-1/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 90000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C7",
+    "name": "カフェチェア1",
+    "key": "C7",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "517d42f048d23d42a533522c796aaf37",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/517d42f048d23d42a533522c796aaf37/files/C7/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/517d42f048d23d42a533522c796aaf37/files/C7/model2d.svg",
+    "properties": {
+      "width": 600,
+      "thickness": 666,
+      "height": 870,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/517d42f048d23d42a533522c796aaf37/files/C7/thumbnail.jpg",
+        "images": {
+          "C7/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/517d42f048d23d42a533522c796aaf37/files/C7/image-0.jpg"
+        },
+        "brand": "OKAMURA",
+        "size": null,
+        "price": 450000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C6-3",
+    "name": "ダイニングチェア",
+    "key": "C6-3",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "4e089a7e5ae835228e09d9d356cd74ed",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/4e089a7e5ae835228e09d9d356cd74ed/files/C6-3/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/4e089a7e5ae835228e09d9d356cd74ed/files/C6-3/model2d.svg",
+    "properties": {
+      "width": 471,
+      "thickness": 529,
+      "height": 819,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/4e089a7e5ae835228e09d9d356cd74ed/files/C6-3/thumbnail.jpg",
+        "images": {
+          "C6-3/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/4e089a7e5ae835228e09d9d356cd74ed/files/C6-3/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 72000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C6-2",
+    "name": "ダイニングチェア",
+    "key": "C6-2",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "e46b20cf987c3f29abf3fa97f13295a9",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/e46b20cf987c3f29abf3fa97f13295a9/files/C6-2/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/e46b20cf987c3f29abf3fa97f13295a9/files/C6-2/model2d.svg",
+    "properties": {
+      "width": 471,
+      "thickness": 529,
+      "height": 819,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/e46b20cf987c3f29abf3fa97f13295a9/files/C6-2/thumbnail.jpg",
+        "images": {
+          "C6-2/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/e46b20cf987c3f29abf3fa97f13295a9/files/C6-2/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 72000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C6-1",
+    "name": "ダイニングチェア",
+    "key": "C6-1",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "d98007c2470f37d18d52cb81af51506d",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/d98007c2470f37d18d52cb81af51506d/files/C6-1/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/d98007c2470f37d18d52cb81af51506d/files/C6-1/model2d.svg",
+    "properties": {
+      "width": 471,
+      "thickness": 529,
+      "height": 819,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/d98007c2470f37d18d52cb81af51506d/files/C6-1/thumbnail.jpg",
+        "images": {
+          "C6-1/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/d98007c2470f37d18d52cb81af51506d/files/C6-1/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 72000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C5-3",
+    "name": "ダイニングハイチェア2",
+    "key": "C5-3",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "eced19db3eb13d81aff78ca15b0c4e49",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/eced19db3eb13d81aff78ca15b0c4e49/files/C5-3/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/eced19db3eb13d81aff78ca15b0c4e49/files/C5-3/model2d.svg",
+    "properties": {
+      "width": 422,
+      "thickness": 440,
+      "height": 920,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/eced19db3eb13d81aff78ca15b0c4e49/files/C5-3/thumbnail.jpg",
+        "images": {
+          "C5-3/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/eced19db3eb13d81aff78ca15b0c4e49/files/C5-3/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 90000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C5-2",
+    "name": "ダイニングハイチェア2",
+    "key": "C5-2",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "b80f1c1bc5a63ca4a0ab774406be0cd4",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b80f1c1bc5a63ca4a0ab774406be0cd4/files/C5-2/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b80f1c1bc5a63ca4a0ab774406be0cd4/files/C5-2/model2d.svg",
+    "properties": {
+      "width": 422,
+      "thickness": 440,
+      "height": 920,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b80f1c1bc5a63ca4a0ab774406be0cd4/files/C5-2/thumbnail.jpg",
+        "images": {
+          "C5-2/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/b80f1c1bc5a63ca4a0ab774406be0cd4/files/C5-2/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 90000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C5-1",
+    "name": "ダイニングハイチェア2",
+    "key": "C5-1",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "e5033d7371b53ec491efdd81489c8785",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/e5033d7371b53ec491efdd81489c8785/files/C5-1/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/e5033d7371b53ec491efdd81489c8785/files/C5-1/model2d.svg",
+    "properties": {
+      "width": 422,
+      "thickness": 440,
+      "height": 920,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/e5033d7371b53ec491efdd81489c8785/files/C5-1/thumbnail.jpg",
+        "images": {
+          "C5-1/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/e5033d7371b53ec491efdd81489c8785/files/C5-1/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 90000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C4-3",
+    "name": "ダイニングハイチェア1",
+    "key": "C4-3",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "e2b4efc877c93e6db2d460776f27c168",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/e2b4efc877c93e6db2d460776f27c168/files/C4-3/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/e2b4efc877c93e6db2d460776f27c168/files/C4-3/model2d.svg",
+    "properties": {
+      "width": 500,
+      "thickness": 540,
+      "height": 925,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/e2b4efc877c93e6db2d460776f27c168/files/C4-3/thumbnail.jpg",
+        "images": {
+          "C4-3/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/e2b4efc877c93e6db2d460776f27c168/files/C4-3/image-0.jpg"
+        },
+        "brand": "UCHIDA",
+        "size": null,
+        "price": 70000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C4-2",
+    "name": "ダイニングハイチェア1",
+    "key": "C4-2",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "119533a10d0535798f52e048632abab4",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/119533a10d0535798f52e048632abab4/files/C4-2/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/119533a10d0535798f52e048632abab4/files/C4-2/model2d.svg",
+    "properties": {
+      "width": 500,
+      "thickness": 540,
+      "height": 925,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/119533a10d0535798f52e048632abab4/files/C4-2/thumbnail.jpg",
+        "images": {
+          "C4-2/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/119533a10d0535798f52e048632abab4/files/C4-2/image-0.jpg"
+        },
+        "brand": "UCHIDA",
+        "size": null,
+        "price": 70000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C4-1",
+    "name": "ダイニングハイチェア1",
+    "key": "C4-1",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "155548b47d213fdfbea1c3b067459fa7",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/155548b47d213fdfbea1c3b067459fa7/files/C4-1/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/155548b47d213fdfbea1c3b067459fa7/files/C4-1/model2d.svg",
+    "properties": {
+      "width": 500,
+      "thickness": 540,
+      "height": 925,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/155548b47d213fdfbea1c3b067459fa7/files/C4-1/thumbnail.jpg",
+        "images": {
+          "C4-1/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/155548b47d213fdfbea1c3b067459fa7/files/C4-1/image-0.jpg"
+        },
+        "brand": "UCHIDA",
+        "size": null,
+        "price": 70000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C3-3",
+    "name": "ミーティングチェア3",
+    "key": "C3-3",
+    "category": [
+      "component.class.one.chat"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "0e5a2122fce9370a8410f1029a0c6249",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/0e5a2122fce9370a8410f1029a0c6249/files/C3-3/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/0e5a2122fce9370a8410f1029a0c6249/files/C3-3/model2d.svg",
+    "properties": {
+      "width": 520,
+      "thickness": 550,
+      "height": 815,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/0e5a2122fce9370a8410f1029a0c6249/files/C3-3/thumbnail.jpg",
+        "images": {
+          "C3-3/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/0e5a2122fce9370a8410f1029a0c6249/files/C3-3/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 60000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C3-2",
+    "name": "ミーティングチェア3",
+    "key": "C3-2",
+    "category": [
+      "component.class.one.chat"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "f6a39f6a8ce931a093f51296a05e0f40",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f6a39f6a8ce931a093f51296a05e0f40/files/C3-2/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f6a39f6a8ce931a093f51296a05e0f40/files/C3-2/model2d.svg",
+    "properties": {
+      "width": 520,
+      "thickness": 550,
+      "height": 815,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f6a39f6a8ce931a093f51296a05e0f40/files/C3-2/thumbnail.jpg",
+        "images": {
+          "C3-2/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f6a39f6a8ce931a093f51296a05e0f40/files/C3-2/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 60000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C3-1",
+    "name": "ミーティングチェア3",
+    "key": "C3-1",
+    "category": [
+      "component.class.one.chat"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "553a8ba74a0d3a5e9eb5f141d575dc9c",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/553a8ba74a0d3a5e9eb5f141d575dc9c/files/C3-1/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/553a8ba74a0d3a5e9eb5f141d575dc9c/files/C3-1/model2d.svg",
+    "properties": {
+      "width": 520,
+      "thickness": 550,
+      "height": 815,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/553a8ba74a0d3a5e9eb5f141d575dc9c/files/C3-1/thumbnail.jpg",
+        "images": {
+          "C3-1/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/553a8ba74a0d3a5e9eb5f141d575dc9c/files/C3-1/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 60000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C2-3",
+    "name": "ミーティングチェア2",
+    "key": "C2-3",
+    "category": [
+      "component.class.one.chat"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "554709bd24c63d5a937672cba1c96cc9",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/554709bd24c63d5a937672cba1c96cc9/files/C2-3/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/554709bd24c63d5a937672cba1c96cc9/files/C2-3/model2d.svg",
+    "properties": {
+      "width": 620,
+      "thickness": 680,
+      "height": 742,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/554709bd24c63d5a937672cba1c96cc9/files/C2-3/thumbnail.jpg",
+        "images": {
+          "C2-3/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/554709bd24c63d5a937672cba1c96cc9/files/C2-3/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 350000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C3-2",
+    "name": "ミーティングチェア2",
+    "key": "C2-2",
+    "category": [
+      "component.class.one.chat"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "3ade0309486b310087079dc401288502",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/3ade0309486b310087079dc401288502/files/C2-2/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/3ade0309486b310087079dc401288502/files/C2-2/model2d.svg",
+    "properties": {
+      "width": 620,
+      "thickness": 680,
+      "height": 742,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/3ade0309486b310087079dc401288502/files/C2-2/thumbnail.jpg",
+        "images": {
+          "C2-2/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/3ade0309486b310087079dc401288502/files/C2-2/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 350000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C2-1",
+    "name": "ミーティングチェア2",
+    "key": "C2-1",
+    "category": [
+      "component.class.one.chat"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "69557de3adfe322697086012cd955814",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/69557de3adfe322697086012cd955814/files/C2-1/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/69557de3adfe322697086012cd955814/files/C2-1/model2d.svg",
+    "properties": {
+      "width": 620,
+      "thickness": 680,
+      "height": 742,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/69557de3adfe322697086012cd955814/files/C2-1/thumbnail.jpg",
+        "images": {
+          "C2-1/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/69557de3adfe322697086012cd955814/files/C2-1/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 350000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C13-3",
+    "name": "ワークハイチェア",
+    "key": "C13-3",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "c836556adb243c0bb9f2f19a95d6c945",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/c836556adb243c0bb9f2f19a95d6c945/files/C13-3/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/c836556adb243c0bb9f2f19a95d6c945/files/C13-3/model2d.svg",
+    "properties": {
+      "width": 625,
+      "thickness": 680,
+      "height": 1108,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/c836556adb243c0bb9f2f19a95d6c945/files/C13-3/thumbnail.jpg",
+        "images": {
+          "C13-3/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/c836556adb243c0bb9f2f19a95d6c945/files/C13-3/image-0.jpg"
+        },
+        "brand": "ITOKI",
+        "size": null,
+        "price": 190000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C13-2",
+    "name": "ワークハイチェア",
+    "key": "C13-2",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "10075c4afa4a34b0b690aa5000a60724",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/10075c4afa4a34b0b690aa5000a60724/files/C13-2/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/10075c4afa4a34b0b690aa5000a60724/files/C13-2/model2d.svg",
+    "properties": {
+      "width": 625,
+      "thickness": 680,
+      "height": 1108,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/10075c4afa4a34b0b690aa5000a60724/files/C13-2/thumbnail.jpg",
+        "images": {
+          "C13-2/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/10075c4afa4a34b0b690aa5000a60724/files/C13-2/image-0.jpg"
+        },
+        "brand": "ITOKI",
+        "size": null,
+        "price": 190000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C13-1",
+    "name": "ワークハイチェア",
+    "key": "C13-1",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "7c4228ccc00b3f92898fc6da0e32b9a2",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7c4228ccc00b3f92898fc6da0e32b9a2/files/C13-1/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7c4228ccc00b3f92898fc6da0e32b9a2/files/C13-1/model2d.svg",
+    "properties": {
+      "width": 625,
+      "thickness": 680,
+      "height": 1108,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7c4228ccc00b3f92898fc6da0e32b9a2/files/C13-1/thumbnail.jpg",
+        "images": {
+          "C13-1/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7c4228ccc00b3f92898fc6da0e32b9a2/files/C13-1/image-0.jpg"
+        },
+        "brand": "ITOKI",
+        "size": null,
+        "price": 190000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C12-3",
+    "name": "ワークチェア",
+    "key": "C12-3",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "9ad6a257e2a735d6bd969a3829379431",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/9ad6a257e2a735d6bd969a3829379431/files/C12-3/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/9ad6a257e2a735d6bd969a3829379431/files/C12-3/model2d.svg",
+    "properties": {
+      "width": 625,
+      "thickness": 680,
+      "height": 944,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/9ad6a257e2a735d6bd969a3829379431/files/C12-3/thumbnail.jpg",
+        "images": {
+          "C12-3/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/9ad6a257e2a735d6bd969a3829379431/files/C12-3/image-0.jpg"
+        },
+        "brand": "ITOKI",
+        "size": null,
+        "price": 140000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C12-2",
+    "name": "ワークチェア",
+    "key": "C12-2",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "f0da31d91fa93b2a942f4ccab93ce331",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f0da31d91fa93b2a942f4ccab93ce331/files/C12-2/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f0da31d91fa93b2a942f4ccab93ce331/files/C12-2/model2d.svg",
+    "properties": {
+      "width": 625,
+      "thickness": 680,
+      "height": 944,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f0da31d91fa93b2a942f4ccab93ce331/files/C12-2/thumbnail.jpg",
+        "images": {
+          "C12-2/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/f0da31d91fa93b2a942f4ccab93ce331/files/C12-2/image-0.jpg"
+        },
+        "brand": "ITOKI",
+        "size": null,
+        "price": 140000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C12-1",
+    "name": "ワークチェア",
+    "key": "C12-1",
+    "category": [
+      "component.class.one.work"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "0decf473168b34008d6ff4ab8419fa89",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/0decf473168b34008d6ff4ab8419fa89/files/C12-1/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/0decf473168b34008d6ff4ab8419fa89/files/C12-1/model2d.svg",
+    "properties": {
+      "width": 625,
+      "thickness": 680,
+      "height": 944,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/0decf473168b34008d6ff4ab8419fa89/files/C12-1/thumbnail.jpg",
+        "images": {
+          "C12-1/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/0decf473168b34008d6ff4ab8419fa89/files/C12-1/image-0.jpg"
+        },
+        "brand": "ITOKI",
+        "size": null,
+        "price": 140000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C11",
+    "name": "ミーティングチェア4",
+    "key": "C11",
+    "category": [
+      "component.class.one.meet"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "a42f23ef20763de0b767b3a1558abf36",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a42f23ef20763de0b767b3a1558abf36/files/C11/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a42f23ef20763de0b767b3a1558abf36/files/C11/model2d.svg",
+    "properties": {
+      "width": 560,
+      "thickness": 560,
+      "height": 920,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a42f23ef20763de0b767b3a1558abf36/files/C11/thumbnail.jpg",
+        "images": {
+          "C11/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/a42f23ef20763de0b767b3a1558abf36/files/C11/image-0.jpg"
+        },
+        "brand": "OKAMURA",
+        "size": null,
+        "price": 70000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C10-3",
+    "name": "カフェチェア2",
+    "key": "C10-3",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "7323809d63933667b6227d52def722e3",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7323809d63933667b6227d52def722e3/files/C10-3/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7323809d63933667b6227d52def722e3/files/C10-3/model2d.svg",
+    "properties": {
+      "width": 559,
+      "thickness": 564,
+      "height": 899,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7323809d63933667b6227d52def722e3/files/C10-3/thumbnail.jpg",
+        "images": {
+          "C10-3/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7323809d63933667b6227d52def722e3/files/C10-3/image-0.jpg"
+        },
+        "brand": "OKAMURA",
+        "size": null,
+        "price": 140000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C10-2",
+    "name": "カフェチェア2",
+    "key": "C10-2",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "fb47b4dd04d43fa4b63e68a9ce690e0d",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/fb47b4dd04d43fa4b63e68a9ce690e0d/files/C10-2/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/fb47b4dd04d43fa4b63e68a9ce690e0d/files/C10-2/model2d.svg",
+    "properties": {
+      "width": 559,
+      "thickness": 564,
+      "height": 899,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/fb47b4dd04d43fa4b63e68a9ce690e0d/files/C10-2/thumbnail.jpg",
+        "images": {
+          "C10-2/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/fb47b4dd04d43fa4b63e68a9ce690e0d/files/C10-2/image-0.jpg"
+        },
+        "brand": "OKAMURA",
+        "size": null,
+        "price": 140000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C10-1",
+    "name": "カフェチェア2",
+    "key": "C10-1",
+    "category": [
+      "component.class.one.relax"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "2cc7b350391535eca73a529f25c832d6",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2cc7b350391535eca73a529f25c832d6/files/C10-1/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2cc7b350391535eca73a529f25c832d6/files/C10-1/model2d.svg",
+    "properties": {
+      "width": 559,
+      "thickness": 564,
+      "height": 899,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2cc7b350391535eca73a529f25c832d6/files/C10-1/thumbnail.jpg",
+        "images": {
+          "C10-1/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/2cc7b350391535eca73a529f25c832d6/files/C10-1/image-0.jpg"
+        },
+        "brand": "OKAMURA",
+        "size": null,
+        "price": 140000,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C1-3",
+    "name": "ミーティングチェア1",
+    "key": "C1-3",
+    "category": [
+      "component.class.one.meet"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "bfa417ef7211387daada7e39db81c8ed",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/bfa417ef7211387daada7e39db81c8ed/files/C1-3/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/bfa417ef7211387daada7e39db81c8ed/files/C1-3/model2d.svg",
+    "properties": {
+      "width": 710,
+      "thickness": 692,
+      "height": 970,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/bfa417ef7211387daada7e39db81c8ed/files/C1-3/thumbnail.jpg",
+        "images": {
+          "C1-3/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/bfa417ef7211387daada7e39db81c8ed/files/C1-3/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 122600,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C1-2",
+    "name": "ミーティングチェア1",
+    "key": "C1-2",
+    "category": [
+      "component.class.one.meet"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "7c364365e5793772aaf84552e1fdb71c",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7c364365e5793772aaf84552e1fdb71c/files/C1-2/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7c364365e5793772aaf84552e1fdb71c/files/C1-2/model2d.svg",
+    "properties": {
+      "width": 710,
+      "thickness": 692,
+      "height": 970,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7c364365e5793772aaf84552e1fdb71c/files/C1-2/thumbnail.jpg",
+        "images": {
+          "C1-2/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/7c364365e5793772aaf84552e1fdb71c/files/C1-2/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 122600,
+        "priceUnit": null
+      }
+    }
+  },
+  {
+    "id": "C1-1",
+    "name": "ミーティングチェア1",
+    "key": "C1-1",
+    "category": [
+      "component.class.one.meet"
+    ],
+    "type": "component.class.two.chair",
+    "fileKey": "1c5490ec93353645b3320998ebfe6b1a",
+    "model3d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/1c5490ec93353645b3320998ebfe6b1a/files/C1-1/model3d.glb",
+    "model2d": "https://dk426pb5xh0yg.cloudfront.net/public/materials/1c5490ec93353645b3320998ebfe6b1a/files/C1-1/model2d.svg",
+    "properties": {
+      "width": 710,
+      "thickness": 692,
+      "height": 970,
+      "offGround": 0,
+      "rotationZ": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "flip": false,
+      "rotatable": true,
+      "scalable": true,
+      "movable": true,
+      "display": {
+        "thumbnail": "https://dk426pb5xh0yg.cloudfront.net/public/materials/1c5490ec93353645b3320998ebfe6b1a/files/C1-1/thumbnail.jpg",
+        "images": {
+          "C1-1/image-0.jpg": "https://dk426pb5xh0yg.cloudfront.net/public/materials/1c5490ec93353645b3320998ebfe6b1a/files/C1-1/image-0.jpg"
+        },
+        "brand": "KOKUYO",
+        "size": null,
+        "price": 122600,
+        "priceUnit": null
+      }
+    }
+  }
+]

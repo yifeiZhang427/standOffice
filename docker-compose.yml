@@ -1,0 +1,83 @@
+version: '3.8'
+
+services:
+  stand-office:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: stand-office:latest
+    container_name: stand-office-app
+    restart: unless-stopped
+
+    # 端口映射
+    ports:
+      - "7070:7070"
+
+    # 环境变量配置 - 30分钟超时
+    environment:
+      - FLASK_ENV=production
+      - APP_TYPE=mixed
+      - GUNICORN_WORKERS=9
+      - GUNICORN_THREADS=1
+      - GUNICORN_WORKER_CLASS=sync
+      - GUNICORN_TIMEOUT=3600      # 30分钟超时
+      - GUNICORN_MAX_REQUESTS=500    # 每处理500个请求重启worker
+      - GUNICORN_MAX_REQUESTS_JITTER=50
+      - GUNICORN_LOG_LEVEL=info
+      - GUNICORN_PRELOAD=False
+      - GUNICORN_GRACEFUL_TIMEOUT=60 # 优雅关闭时间
+
+    # 数据卷
+    volumes:
+      - ./logs:/app/logs                     # 日志目录
+      - /etc/localtime:/etc/localtime:ro     # 同步时间
+      - ./data:/app/data:ro                  # 如果有数据文件
+
+    # 健康检查
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:7070/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 120s  # 增加启动等待时间
+
+    # 日志配置
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "20m"    # 增加日志文件大小
+        max-file: "5"      # 增加日志文件数量
+
+    # 资源限制 - 30分钟任务需要更多内存
+    deploy:
+      resources:
+        limits:
+          cpus: '8'
+          memory: 16G      # 增加内存限制到16GB
+        reservations:
+          cpus: '4.00'
+          memory: 8G       # 预留8GB内存
+
+    # 安全配置 - 允许以root运行
+    privileged: false
+    user: root
+
+    # 内核参数调优
+    sysctls:
+      - net.core.somaxconn=65535
+      - net.ipv4.ip_local_port_range=1024 65535
+      - net.ipv4.tcp_tw_reuse=1
+
+    # ulimits调整
+    ulimits:
+      nofile:
+        soft: 65536
+        hard: 65536
+      nproc:
+        soft: 65536
+        hard: 65536
+
+# 网络定义
+networks:
+  default:
+    name: auto-layout-network
